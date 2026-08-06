@@ -2,8 +2,8 @@
 
 # Fala dev! Eu sou o José Nickolas 🧑‍💻
 
-💻 Desenvolvedor Full Stack apaixonado por transformar ideias em código.
-🚀 Foco em performance, código limpo, automações e soluções modernas.
+💻 Desenvolvedor Full Stack & Entusiasta de Inteligência Artificial.
+🚀 Foco em performance, código limpo, automações, LLMs e soluções modernas.
 
 <br />
 
@@ -16,12 +16,18 @@
 ### 🚀 Stack Principal
 
 #### ⚙️ Back-End
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🤖 Inteligência Artificial & Engenharia de Prompts
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Integration-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 
 #### 💻 Front-End
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
