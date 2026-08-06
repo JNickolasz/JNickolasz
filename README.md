@@ -37,24 +37,20 @@
 
 #### 🛠️ Ferramentas & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JNickolasz&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNickolasz&layout=compact&theme=dark" alt="Top Languages" height="175" />
-</div>
-
-<br />
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JNickolasz&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNickolasz&theme=dark" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
