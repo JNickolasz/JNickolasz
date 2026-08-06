@@ -1,9 +1,9 @@
-<div align="center">
+[<div align="center">](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FlbzBpMjk2YTYxZDZyczZ0MjlpN2l6bnlpbmN1amNvczM2M3dkeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif)
 
-# Fala dev! Eu sou Nickolas 🧑‍💻
+# Opa dev! Eu sou Nickolas 🧑‍💻
 
-💻 Desenvolvedor Full Stack & Entusiasta de Inteligência Artificial.
-🚀 Foco em performance, código limpo, automações, LLMs e soluções modernas.
+Sou desenvolvedor Full Stack & Entusiasta de Inteligência Artificial.
+Foco principalmente em desenvolvimento web e desktop, LLMs, engenharia de dados e automações.
 
 <br />
 
