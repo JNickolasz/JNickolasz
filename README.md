@@ -1,13 +1,13 @@
 <div align="center">
 
-# Fala dev! Eu sou o José Nickolas 🧑‍💻
+# Fala dev! Eu sou Nickolas 🧑‍💻
 
 💻 Desenvolvedor Full Stack & Entusiasta de Inteligência Artificial.
 🚀 Foco em performance, código limpo, automações, LLMs e soluções modernas.
 
 <br />
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdhM3J4NXA3Z3J2Zmsxc3BhODBhNDlyeXJocTV1cmppdHRkZDJqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5uMXJ6Zm1rdHpoZjBpdXF0M3p1OHdmbjEwc2M3eXdhNDkxd3RwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGG4dbv5BLAHxmX/giphy.gif)
 
 </div>
 
